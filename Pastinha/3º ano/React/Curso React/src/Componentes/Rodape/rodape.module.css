@@ -1,0 +1,12 @@
+.Rodape{
+    background-color: var(--preto);
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}
+
+.Rodape h1{
+    color: var(--cinza);
+}

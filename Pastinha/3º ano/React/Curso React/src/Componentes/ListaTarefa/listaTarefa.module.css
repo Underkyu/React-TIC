@@ -1,0 +1,12 @@
+.ListaTarefa{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    align-items: center;
+}
+
+.Item{
+    display: flex;
+    gap: .5rem;
+}
